@@ -1,5 +1,5 @@
 # CRUD-Nodejs-MongoDB
-CRUD operation through API in Nodejs connected to MongoDB Atlas <br>
+CRPD operation through API in Nodejs connected to MongoDB Atlas <br>
 C - Create <br>
 R - Read <br>
 P - Patch <br>
