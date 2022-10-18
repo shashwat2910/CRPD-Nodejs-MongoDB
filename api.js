@@ -6,7 +6,7 @@ const app = express()
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false })
 
-app.get("/users", async (request, response) => {
+app.get("/allUsers", async (request, response) => {
   const users = await User.find({})
   try {
     response.send(users)
